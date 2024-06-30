@@ -1,8 +1,8 @@
-# Nom de ton API
+# Secu_Login
 
 ## Prérequis
 
-Avant d'utiliser cette API, assure-toi d'avoir les éléments suivants :
+Avant d'utiliser cette API, assure-vous d'avoir les éléments suivants :
 
 - **WAMP Server** : Un environnement de développement local pour PHP, MySQL et Apache.
 - **Base de données MySQL** : Une base de données nommée `login_secu_bdd` pour utiliser avec cette API.
